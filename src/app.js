@@ -13,7 +13,7 @@ console.log(dolarDun)
 
 
 
-let konutKredileri = ["Konut kredisi","Emlak konut kredisi","Kamu konut kredisi","Özel Konut Kredileri"]
+let konutKredileri = ["Konut kredisi","Emlak konut kredisi","Kamu konut kredisi","Taşıt kredisi","Özel Konut Kredileri"]
 console.log("<ul>")
 for (let i=0; i<konutKredileri.length;i++){
 
